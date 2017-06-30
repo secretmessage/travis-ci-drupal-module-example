@@ -6,6 +6,8 @@ continuous integration with a Drupal project.
 
 Here is a sample status icon showing the state of the master branch.
 
+[![Build Status](https://travis-ci.org/secretmessage/travis-ci-drupal-module-example.svg?branch=master)](https://travis-ci.org/secretmessage/travis-ci-drupal-module-example)
+
 [![Build Status](https://secure.travis-ci.org/sonnym/travis-ci-drupal-module-example.png?branch=master)](http://travis-ci.org/sonnym/travis-ci-drupal-module-example)
 
 In order to run this project just fork it on github.com and then [enable](http://about.travis-ci.org/docs/user/getting-started/)
